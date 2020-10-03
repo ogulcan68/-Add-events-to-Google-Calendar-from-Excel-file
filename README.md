@@ -1,2 +1,2 @@
-# -Add-events-to-Google-Calendar-from-Excel-file
+# exceltogooglecalendar
  Add events to Google Calendar from Excel file
